@@ -1,6 +1,10 @@
 Hello linear
 #include <stdio.h> 
 int cubeByReference(int n);
+
+int cubeByValue(int n)
+
 int main(){
-    retrun 0;
+    return 0;
 }
+
