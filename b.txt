@@ -1,1 +1,7 @@
 Hello linear 
+#include <>stdio.h>
+int cubeByValue(int n)
+
+int main(){
+    return 0;
+}
